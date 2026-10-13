@@ -1,1 +1,1 @@
-Statistical Analysis of Floral and Reproductive Traits in Solanum quitoense Genotypes
+Data, R scripts, statistical analyses, and figures for the phenotypic, physiological, floral, and reproductive evaluation of Solanum quitoense genotypes.
