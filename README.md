@@ -1,2 +1,1 @@
-# solanum-quitoense-phenotypic-analysis
-R scripts for statistical analysis and visualization of phenotypic traits in Solanum quitoense genotypes.
+Statistical Analysis of Floral and Reproductive Traits in Solanum quitoense Genotypes
